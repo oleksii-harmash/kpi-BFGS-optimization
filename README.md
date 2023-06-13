@@ -1,5 +1,7 @@
 # kpi-BFGS-optimization
 
+See more in report.pdf
+
 Init trajectory:
 ![image](https://github.com/oleksii-harmash/kpi-BFGS-optimization/assets/72203364/faf25397-78eb-4486-b59d-64e01416aa33)
 
